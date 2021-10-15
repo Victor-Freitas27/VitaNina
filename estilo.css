@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+header{
+    text-align: center;
+    background-color: snow;
+    border: solid black;
+    border-radius: 30px;
+    color: #c69b29;
+}
+
+#Titulo{
+    font-size: 25px;
+}
+
+#SubTitulo{
+    font-size: 15px;
+    display: inline-block;
+    background-color: snow;
+    border: black solid;
+    border-radius: 30px;
+    color: #c69b29;
+}
+
+.SubTitulo-V{
+    font-size: 20px;
+    color: #c69b29;
+}
+
+body{
+    background-image: url(fundo.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+
+main{
+    margin:64px;
+}
+
+section{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    border: solid black;
+    background-color: snow;
+    border-radius: 10px;
+}
+
+section img{
+    width: 300px;
+    height: 300px;
+    border-radius: 55px;
+}
+
+#ZeroL{
+    text-align: center;
+}
+
+#ZeroL img{
+    width: 600px;
+    height: 300px;
+    margin-bottom: 24px;
+    margin-top: 12px;
+}
+
+footer{
+    text-align: center;
+    background-color: snow;
+    border: solid black;
+    border-radius: 30px;
+    color: #c69b29;
+}
